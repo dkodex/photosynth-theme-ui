@@ -1,0 +1,21 @@
+{
+  "name": "photosynth-theme-ui",
+  "theme": "photosynth",
+  "version": "0.1.0",
+  "description": "UI theme for the ATOM editor inspired by green monochrome monitors of the past",
+  "keywords": [
+    "ui",
+    "theme",
+    "photosynth",
+    "fallout",
+    "pipboy",
+    "pip-boy",
+    "green monochrome",
+    "monochrome"
+  ],
+  "repository": "https://github.com/dkodex/photosynth-theme-ui",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

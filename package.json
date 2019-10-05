@@ -1,8 +1,9 @@
 {
   "name": "photosynth-theme-ui",
-  "theme": "photosynth",
+  "theme": "ui",
   "version": "0.1.0",
   "description": "UI theme for the ATOM editor inspired by green monochrome monitors of the past",
+  "homepage": "https://github.com/dkodex/photosynth-theme-ui#readme",
   "keywords": [
     "ui",
     "theme",
@@ -13,7 +14,10 @@
     "green monochrome",
     "monochrome"
   ],
-  "repository": "https://github.com/dkodex/photosynth-theme-ui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkodex/photosynth-theme-ui"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

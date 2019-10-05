@@ -3,7 +3,11 @@
   "theme": "ui",
   "version": "0.1.0",
   "description": "UI theme for the ATOM editor inspired by green monochrome monitors of the past",
+<<<<<<< HEAD
   "homepage": "https://github.com/dkodex/photosynth-theme-ui#readme",
+=======
+  "homepage": "https://github.com/dkodex/photosynth-theme-syntax#readme",
+>>>>>>> 21465979298e6d44974931d3403472190418e584
   "keywords": [
     "ui",
     "theme",
